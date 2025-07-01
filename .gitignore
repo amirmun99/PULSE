@@ -1,0 +1,60 @@
+############
+#  General  #
+############
+# OS
+.DS_Store
+Thumbs.db
+ehthumbs.db
+Icon?
+# Editors / IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+############
+#  Python   #
+############
+# Byte‑compiled / cache
+__pycache__/
+*.py[cod]
+*.pyo
+# Virtual envs
+.venv/
+env/
+venv/
+
+############
+#  CAD & 3‑D Printing  #
+############
+# Fusion 360 / STEP temp
+*.autosave
+*.bak
+# Slicer output
+*.gcode
+*.3mf
+*.factory
+# FDM preview thumbnails
+*.png.preview
+
+############
+#  RP2040 Build Artefacts  #
+############
+# UF2 firmware images (keep only release UF2s!)
+*.uf2
+# Build tools cache
+build/
+
+############
+#  Logs & Data  #
+############
+# Raw CSV logs—store only examples
+logs/
+*.csv
+
+############
+#  Misc.  #
+############
+# Node / JS (if using Docsify or Docusaurus for docs)
+node_modules/
+npm-debug.log*
