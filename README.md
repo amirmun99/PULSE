@@ -1,5 +1,8 @@
+![pulse_logo](https://github.com/user-attachments/assets/2695f727-d486-4fb1-ab4e-1725e0075b3e)
+
 # PULSE – Open‑Source Vehicle & Motion Data Loggers  
 *Precision • Utility • Logging • Sensors • Events*
+
 
 > Two hardware variants, one unified platform – everything you need to capture motion, vibration, and environmental data in the field.
 
